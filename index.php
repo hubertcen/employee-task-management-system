@@ -6,7 +6,7 @@
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     />
-    <link rel="stylesheet" href="style.css"">
+    <link rel="stylesheet" href="css/style.css"">
   </head>
   <body>
     <input type="checkbox" id="checkbox" />
@@ -23,7 +23,7 @@
       <nav class="side-bar">
         <div class="user-p">
           <img src="img/user.png" />
-          <h4>Elias</h4>
+          <h4>@user</h4>
         </div>
 <?php 
   $user = "admin";
@@ -109,8 +109,7 @@
 ?>
       </nav>
       <section class="section-1">
-        <h1>WELCOME</h1>
-        <p>#CodingWithElias</p>
+        
       </section>
     </div>
   </body>
